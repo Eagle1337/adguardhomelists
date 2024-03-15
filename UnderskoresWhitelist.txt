@@ -11,6 +11,11 @@
 @@||*.mangadex.org^$important
 @@||*.mangadex.org^$important
 @@||*.mangadex.network^$important
+@@||*.mangaupdates.com^$important
+@@||*.bookwalker.jp^$important
+@@||*.viz.com^$important
+@@||*.yenpress.com^$important
+@@||*.kodansha.us^$important
 @@||holybid.com^$important
 @@||*.plex.direct^$important
 @@||clients.plex.tv^$important
