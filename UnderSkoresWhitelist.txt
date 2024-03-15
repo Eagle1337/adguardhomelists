@@ -1,0 +1,42 @@
+! Title: Underskore's Whitelist
+@@||s.youtube.com^$important
+@@||fonts.gstatic.com^$important
+@@||video-stats.l.google.com^$important
+@@||s2.youtube.com^$important
+@@||*.anilist.co^$important
+@@||anidb.net^$important
+@@||*.anidb.net^$important
+@@||*malsync.moe^$important
+@@||*.myanimelist.net^$important
+@@||*.plex.direct^$important
+@@||holybid.com^$important
+@@||clients.plex.tv^$important
+@@||app.plex.tv^$important
+@@||mirror.accum.se^$important
+@@||mirrors.kodi.tv^$important
+@@||*.backblaze.com^$important
+@@||sneedex.moe^$important
+@@||*.kuudere.pw^$important
+@@||animebytes.tv^$important
+@@||btfans.3322.org^$important
+@@||nyaa.si^$important
+@@||tracker.dm258.cn^$important
+@@||tracker.cloudit.top^$important
+@@||tk3.5qzone.net^$important
+@@||tracker.coppersurfer.tk^$important
+@@||rhodiumsurfer.tk^$important
+@@||tracker.expli.top^$important
+@@||tracker.baka-sub.cf^$important
+@@||mangaplus.shueisha.co.jp^$important
+@@||stats-api.sportsnet.ca^
+@@||tracker.cyber-hub.net^
+@@||tracker.bitcomet.net^
+@@||tracker.xelion.fr^
+@@||*.snow-raws.win^
+@@||p.imgur.com^$important
+@@||t.imgur.com^$important
+@@||tracker.edoardocolombo.eu^$important
+@@||public-tracker.cf^$important
+@@||tracker.aletorrenty.pl^$important
+! @@||192.1681.26^$important
+! @@||*.in-addr.arpa^$important
