@@ -8,8 +8,11 @@
 @@||*.anidb.net^$important
 @@||*malsync.moe^$important
 @@||*.myanimelist.net^$important
-@@||*.plex.direct^$important
+@@||*.mangadex.org^$important
+@@||*.mangadex.org^$important
+@@||*.mangadex.network^$important
 @@||holybid.com^$important
+@@||*.plex.direct^$important
 @@||clients.plex.tv^$important
 @@||app.plex.tv^$important
 @@||mirror.accum.se^$important
@@ -38,5 +41,3 @@
 @@||tracker.edoardocolombo.eu^$important
 @@||public-tracker.cf^$important
 @@||tracker.aletorrenty.pl^$important
-! @@||192.1681.26^$important
-! @@||*.in-addr.arpa^$important
