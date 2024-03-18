@@ -7,6 +7,89 @@
 ||softwareupdates.amazon.com^$important
 ||updates.amazon.com^$important
 
+! Title: Wiki/Fandom List, and more
+! 
+! Block Wikia/Fandom trackers
+!
+||fastly-insights.com/b^
+||fastly-insights.com/o.svg*
+||fastly-insights.com/static/scout.js^
+||beacon.wikia-services.com/__track/
+||pixels.ad.gt/api/v1/getpixels^
+!
+! Block videos
+!
+||cdn.jwplayer.com/videos/$domain=fandom.com
+||ssl.p.jwpcdn.com/player/v/8.18.3/provider.hlsjs.js^$domain=fandom.com
+fandom.com###featured-video__player
+fandom.com##div.featured-video__player-container
+! search is polluted by ebay listing
+fandom.com##li.unified-search__result.marketplace
+!
+! Block ping
+!
+||prd.jwpltx.com/v1/*/ping.gif^
+||ping-meta-prd.jwpltx.com/v1/jwplayer6/ping.gif^
+!
+! Block Discord
+!
+||discord.com/widget^$domain=fandom.com
+!
+! Block ad in search
+!
+fandom.com##p.instant-suggestion
+
+! TraktTV
+trakt.tv#?#div[id*=-wrapper]:-abp-has(div[class*=-label]:-abp-contains(Advertisement))
+trakt.tv##div[id^=hu-ck--st-er-desk-top-wrapper]
+trakt.tv##div[id^=huck-ster-desktop-]
+trakt.tv##div[id^=hu-ck-ster-desk-top-]
+trakt.tv##div[id^=hu-ck-st-er-desk-top-]
+trakt.tv###hu-ck-s-t-er-de-sk-top-wrapper
+trakt.tv###hu-ck--st-er-desk-top-wrapper
+trakt.tv###hu-ck-st-er-desk-top-wrapper
+trakt.tv###hu-ck-ster-desk-top-wrapper
+trakt.tv###hu-ck-st-er-desk-top-sidenav
+trakt.tv###header-shop
+trakt.tv#?#div[id*=-wrapper]:has(a[href*='/vip/ads'])
+trakt.tv#?#div[id*=-wrapper]:has(a[href*='/vip/advertising'])
+trakt.tv###dashboard-legal-notice
+
+! Amazon, kill sponsored listings
+amazon.ca#?#li.s-result-item:-abp-has(h5.s-sponsored-header)
+
+! IMDB cleanup
+imdb.com###front_row_widget
+imdb.com##iframe.yesScript
+imdb.com##img#vw-wrap
+imdb.com##.supertab>iframe
+imdb.com##div#injected_navstrip_wrapper
+imdb.com##div.cornerstone_slot
+||imdb-video.media-imdb.com$domain=imdb.com
+||player.twitch.tv$domain=imdb.com
+
+! IA donate & analytics
+archive.org##header#donate_banner
+archive.org##div#banner-body-container
+||analytics.archive.org/
+
+! BrotherBrick
+brothers-brick.com##.gdpr-privacy-bar
+
+! wikipedia
+wikipedia.org###frb-main
+wikipedia.org###frb-inline
+wikipedia.org##div.frb-nag
+wikipedia.org###frb-nag
+wikipedia.org###centralNotice.cn-frthankyou
+
+! Kijiji ads
+kijiji.ca##.regular-ad.third-party
+kijiji.ca##.top-feature.third-party
+
+
+
+
 #Memu
 ||memuplay.com^$important
 ||www.memuplay.com^$important
