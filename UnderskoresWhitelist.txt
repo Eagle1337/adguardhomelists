@@ -47,3 +47,4 @@
 @@||tracker.edoardocolombo.eu^$important
 @@||public-tracker.cf^$important
 @@||tracker.aletorrenty.pl^$important
+@@||tracker.publicbt.com^$important
