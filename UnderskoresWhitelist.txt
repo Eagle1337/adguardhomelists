@@ -48,3 +48,4 @@
 @@||public-tracker.cf^$important
 @@||tracker.aletorrenty.pl^$important
 @@||tracker.publicbt.com^$important
+@@||bt.careland.com.cn^$important
