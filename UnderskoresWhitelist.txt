@@ -23,6 +23,7 @@
 @@||mirror.accum.se^$important
 @@||mirrors.kodi.tv^$important
 @@||*.backblaze.com^$important
+@@||*.backblazeb2.com^$important
 @@||sneedex.moe^$important
 @@||*.kuudere.pw^$important
 @@||animebytes.tv^$important
