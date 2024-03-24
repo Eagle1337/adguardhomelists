@@ -7,6 +7,8 @@
 @@||anidb.net^$important
 @@||*.anidb.net^$important
 @@||*malsync.moe^$important
+@@||animethemes.moe^$important
+@@||*.animethemes.moe^$important
 @@||*.myanimelist.net^$important
 @@||*.mangadex.org^$important
 @@||*.mangadex.org^$important
@@ -36,6 +38,7 @@
 @@||tracker.cyber-hub.net^
 @@||tracker.bitcomet.net^
 @@||*.snow-raws.win^
+@@||exodus.desync.com:6969^$important
 @@||tracker.edoardocolombo.eu^$important
 @@||public-tracker.cf^$important
 @@||tracker.aletorrenty.pl^$important
