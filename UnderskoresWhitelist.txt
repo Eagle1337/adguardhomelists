@@ -36,6 +36,8 @@
 @@||rhodiumsurfer.tk^$important
 @@||tracker.expli.top^$important
 @@||tracker.baka-sub.cf^$important
+@@||tracker.torrent.eu.org^$important
+@@||tracker.opentrackr.org^$important
 @@||mangaplus.shueisha.co.jp^$important
 @@||stats-api.sportsnet.ca^
 @@||tracker.cyber-hub.net^
