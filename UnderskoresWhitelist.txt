@@ -128,7 +128,6 @@
 @@||opentrackr.org^
 @@||bt2.careland.com.cn^
 @@||bt.henbt.com^
-@@||bt.henbt.com^
 @@||bt.rghost.net^
 @@||tracker.nanoha.org^
 @@||tracker3.itzmx.com^
@@ -136,4 +135,15 @@
 @@||tracker.cyberia.is^
 @@||*.rarbg.com^
 @@||retracker.lanta-net.ru^
-@@||*.nanoha.org^^
+@@||*.nanoha.org^
+@@||tracker.dmcomic.org^
+@@||therarbg.to^
+@@||bitsearch.to^
+@@||torlock.com^
+@@||solidtorrents.to^
+@@||oscar.reyesleon.xyz^
+@@||retracker.ohys.net^
+@@||pubt.net^
+@@||t.wahaha.work^
+@@||btfile.sdo.com^
+@@||tracker.dmcomic.org^
