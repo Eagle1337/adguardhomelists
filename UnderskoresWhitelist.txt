@@ -84,6 +84,22 @@
 @@||t-115.rhcloud.com^
 @@||retracker.gorcomnet.ru^
 @@||tracker.baravik.org^
-
-eztv.tracker.prq.to
+@@||*.port443.xyz^
+@@||eztv.tracker.prq.to^
+@@||tracker.justseed.it^
+@@||bt.sc-ol.com^
+@@||tracker.ktxp.com^
+@@||tracker.ccc.de^
+@@||tracker4.piratux.com^
+@@||tracker.ilibr.org^
+@@||bt.xxx-tracker.com^
+@@||www.red-ix.ru^
+@@||*.acgnx.se^
+@@||tracker.mg64.net^
+@@||www.itzmx.com^
+@@||tracker.filetracker.pl^
+@@||www.piratux.com^
+@@||torrent.gresille.org^
+@@||krs-ix.ru^
+@@||stealth.si^
 
