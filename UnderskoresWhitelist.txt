@@ -102,4 +102,8 @@
 @@||torrent.gresille.org^
 @@||krs-ix.ru^
 @@||stealth.si^
-
+@@||popcorn-tracker.org^
+@@||www.minglong.org^
+@@||rarbq.com^
+@@||xelion.fr^
+@@||desync.com^
