@@ -34,6 +34,7 @@
 @@||mangaplus.shueisha.co.jp^$important
 @@||p.imgur.com^$important
 @@||t.imgur.com^$important
+@@||arm.haglund.dev^
 #Trackers
 @@||tracker.cyber-hub.net^
 @@||tracker.bitcomet.net^
