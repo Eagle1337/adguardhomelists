@@ -58,7 +58,9 @@
 @@||tracker.publicbt.com^$important
 @@||tracker.xelion.fr^
 @@||http://tracker.minglong.org^$important
-@@|anirena.com^$important
+@@|anirena.com^
+@@||www.anirena.com^
+@@||*.anirena.com^
 @@||*.coppersurfer.tk^$important
 @@||tracker.leechers-paradise.org^$important
 @@||beatrice-raws.org^
@@ -83,4 +85,5 @@
 @@||retracker.gorcomnet.ru^
 @@||tracker.baravik.org^
 
+eztv.tracker.prq.to
 
