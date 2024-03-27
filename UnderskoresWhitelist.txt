@@ -39,6 +39,7 @@
 @@||tracker.cyber-hub.net^
 @@||tracker.bitcomet.net^
 @@||*.snow-raws.win^
+@@||*.nyaatorrents.info^
 @@||exodus.desync.com:6969^$important
 @@||tracker.edoardocolombo.eu^$important
 @@||public-tracker.cf^$important
@@ -147,3 +148,4 @@
 @@||t.wahaha.work^
 @@||btfile.sdo.com^
 @@||tracker.dmcomic.org^
+@@||tracker.animebytes.tv^
