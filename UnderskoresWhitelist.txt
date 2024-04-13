@@ -150,4 +150,6 @@
 @@||tracker.dmcomic.org^
 @@||tracker.animebytes.tv^
 @@||dutchtracking.com^
-@@|| tracker.publicbt.com^
+@@||tracker.publicbt.com^
+@@||*.rarbg.me^
+@@||rarbg.me^
