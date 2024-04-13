@@ -67,7 +67,6 @@
 @@||tracker.leechers-paradise.org^$important
 @@||beatrice-raws.org^
 @@||tracker.calculate.ru^
-@@||tracker.btcake.com^
 @@||t2.popgo.org^
 @@||tr.steins-gate.moe^
 @@||*.steins-gate.moe^
@@ -80,6 +79,7 @@
 @@||backuptrcker.marshyonline.net^
 @@||why.doesttstillnotacceptudptrac.kers^
 @@||tracker.1337x.org^
+@@||1337x.org^
 @@||www.mp4mkv.org^
 @@||tracker2.wasabii.com.tw^
 @@||tracker1.wasabii.com.tw^
@@ -150,6 +150,8 @@
 @@||tracker.dmcomic.org^
 @@||tracker.animebytes.tv^
 @@||dutchtracking.com^
-@@||tracker.publicbt.com^
+@@||*.dutchtracking.com^
 @@||*.rarbg.me^
 @@||rarbg.me^
+@@||*.tracker.cl^
+@@||name example.org^
