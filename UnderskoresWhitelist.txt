@@ -155,3 +155,11 @@
 @@||rarbg.me^
 @@||*.tracker.cl^
 @@||name example.org^
+@@||*releases.moe/api/collections/torrents/records^
+@@||*releases.moe/api/collections/entries/records^
+@@||*releases.moe^$important@@||files.catbox.moe^
+@@||static.crates.io^
+@@||youtube.com/api/stats/atr^
+@@||youtube.com/api/stats/atr?^
+@@||s.youtube.com^
+
