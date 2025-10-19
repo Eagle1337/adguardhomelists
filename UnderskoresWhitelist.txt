@@ -37,7 +37,8 @@
 @@||arm.haglund.dev^
 @@||*releases.moe/api/collections/torrents/records^
 @@||*releases.moe/api/collections/entries/records^
-@@||*releases.moe^$important@@||files.catbox.moe^
+@@||*releases.moe^$important
+@@||files.catbox.moe^
 @@||static.crates.io^
 @@||youtube.com/api/stats/atr^
 @@||youtube.com/api/stats/atr?^
@@ -162,3 +163,4 @@
 @@||rarbg.me^
 @@||*.tracker.cl^
 @@||name example.org^
+
